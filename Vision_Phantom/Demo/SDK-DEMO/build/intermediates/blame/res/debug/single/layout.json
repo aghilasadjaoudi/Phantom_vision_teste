@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\log_dialog_view.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\Vision_Phantom.Lib\\DJI-SDK-LIB\\unspecified\\res\\layout\\log_dialog_view.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_controller_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_main_controller_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gs_protocol_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_gs_protocol_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_preview_hw_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_preview_hw_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\numpicker_double.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\numpicker_double.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\media_info_item.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\media_info_item.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera_protocol_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_camera_protocol_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gs_protocol_joystick_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_gs_protocol_joystick_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gs_protocol_followme_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_gs_protocol_followme_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\numpicker_type_layout.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\numpicker_type_layout.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_preview_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_preview_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_switch_drone.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\dialog_switch_drone.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\demo_info_item.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\demo_info_item.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_gimbal_setting.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\dialog_gimbal_setting.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_sync_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_media_sync_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remote_control_protocol_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_remote_control_protocol_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_drone_type.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_select_drone_type.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\show_view.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\show_view.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\numpicker.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\numpicker.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\numpicker_continue_shot.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\numpicker_continue_shot.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gs_protocol_ioc_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_gs_protocol_ioc_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_video_frame_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_get_video_frame_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_battery_info_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_battery_info_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gimbal_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_gimbal_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_transmitter_controller_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_image_transmitter_controller_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gs_protocol_hotpoint_demo.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_gs_protocol_hotpoint_demo.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\layout\\activity_range_extender.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\layout\\activity_range_extender.xml"
+    }
+]

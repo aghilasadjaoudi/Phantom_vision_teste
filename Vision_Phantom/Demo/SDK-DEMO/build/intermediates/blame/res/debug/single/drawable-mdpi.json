@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back_button_disable.png",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\back_button_disable.png"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_tick.png",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\icon_tick.png"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back_button_press.png",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\back_button_press.png"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pickerbutton_pressed.png",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\pickerbutton_pressed.png"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back_button_normal.png",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\back_button_normal.png"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\continue_setting_overlay.png",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\continue_setting_overlay.png"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\picker_ok_bg.png",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\picker_ok_bg.png"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pickerbutton_normal.png",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\pickerbutton_normal.png"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\picker_black_bg.png",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\picker_black_bg.png"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pickerbackground_single.png",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\pickerbackground_single.png"
+    }
+]

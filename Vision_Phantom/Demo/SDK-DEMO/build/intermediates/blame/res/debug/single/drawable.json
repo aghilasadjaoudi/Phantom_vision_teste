@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_picker_btn.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable\\selector_picker_btn.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_checked.png",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\Vision_Phantom.Lib\\DJI-SDK-LIB\\unspecified\\res\\drawable\\radio_checked.png"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_selector.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\Vision_Phantom.Lib\\DJI-SDK-LIB\\unspecified\\res\\drawable\\btn_radio_selector.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable\\selector_button.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_unchecked.png",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\Vision_Phantom.Lib\\DJI-SDK-LIB\\unspecified\\res\\drawable\\radio_unchecked.png"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zoom_selector.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\Vision_Phantom.Lib\\DJI-SDK-LIB\\unspecified\\res\\drawable\\btn_zoom_selector.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_lock_selector.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\Vision_Phantom.Lib\\DJI-SDK-LIB\\unspecified\\res\\drawable\\btn_lock_selector.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_back_button.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable\\selector_back_button.xml"
+    },
+    {
+        "merged": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\drawable\\wheel_bg.xml"
+    }
+]

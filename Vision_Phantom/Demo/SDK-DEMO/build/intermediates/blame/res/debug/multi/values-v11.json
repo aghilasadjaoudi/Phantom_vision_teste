@@ -1,0 +1,112 @@
+[
+    {
+        "outputFile": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 786,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1141
+                },
+                "from": {
+                    "file": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1146,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1282
+                },
+                "from": {
+                    "file": "D:\\Disque E\\Projet-Drone\\Vision_Phantom\\Demo\\SDK-DEMO\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 778
+                    }
+                }
+            }
+        ]
+    }
+]
